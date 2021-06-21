@@ -38,8 +38,8 @@
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.7),
-    rgba(0, 0, 0, 0.7)
+    rgba(39, 42, 52, 0.7),
+    rgba(39, 42, 52, 0.7)
   ); /* Filter color */
 }
 
@@ -56,7 +56,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../img/bg.jpg);
+  background-image: linear-gradient( rgba(39, 42, 52, 0.75), rgba(39, 42, 52, 0.75) ), url(../img/bg.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
