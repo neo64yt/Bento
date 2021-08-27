@@ -4,10 +4,10 @@
 
 :root {
   /* Fonts  */
-  --fsg: 135px; /* Time and Greetings */
-  --fsm: 75px; /* Date */
-  --fss: 25px; /* Greetings and Weather widger */
-  --fses: 16px; /* Links List */
+  --fsg: 100px; /* Time and Greetings */
+  --fsm: 50px; /* Date */
+  --fss: 20px; /* Greetings and Weather widget */
+  --fses: 15px; /* Links List */
 
   /* Color scheme  */
   --accent: #12846e; /* Hover color */
