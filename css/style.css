@@ -208,7 +208,10 @@ body {
 .list {
   display: flex;
   align-items: center;
+  justify-content: center;
   flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: thin;
 }
 
 .list__1 {
@@ -220,7 +223,7 @@ body {
   grid-row: 3 / span 2;
 }
 .list__head {
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 10px;
   width: 30px;
   color: var(--fg);
